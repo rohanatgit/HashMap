@@ -10,6 +10,7 @@ public class countdistictelemtn {
             arr[i]=sc.nextInt();
         }
         int c=0;
+       // boolean f=false;
         for(int i=0;i<n;i++) {
             boolean f=false;
             for (int j = 0; j < i; j++) {
